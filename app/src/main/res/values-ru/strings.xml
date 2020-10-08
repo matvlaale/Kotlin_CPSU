@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МВЛ Заметки</string>
+    <string name="text_button">Кнопка</string>
+    <string name="text_loading">Загрузка данных</string>
+    <string name="chbl_seconds">Секунд: %1$d</string>
+</resources>

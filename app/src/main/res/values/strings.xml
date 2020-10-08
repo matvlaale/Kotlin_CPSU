@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Kotlin_CPSU</string>
+    <string name="app_name">MVL Notes</string>
+    <string name="text_button">Button</string>
+    <string name="text_loading">Loading the data</string>
+    <string name="chbl_seconds">Seconds: %1$d</string>
 </resources>
